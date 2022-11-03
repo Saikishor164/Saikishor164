@@ -24,6 +24,15 @@ Here are some ideas to get you started:
 🚀 I'm Currently Working as Web Developer in M.C.E. Society, Azam I.T. Department. <br> 
 🌱 I'm Currently Learning Backend Web Development by Youtube Videos and Online Courses.<br> 
 💬 Ask me about Coding i would say little much but ask me about any movie Information i will say you a speech on it. <br>
+
+
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/saikishor164"><img src="https://github-readme-stats.vercel.app/api?username=saikishor164&show_icons=true&hide=prs,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Saikishor Rasala's GitHub stats" /></a>
+
 <!-- 
 Here are some ideas to get you started:
 
