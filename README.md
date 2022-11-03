@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 🌍 I'm stay in Pune, Maharashtra <br>
 ✉️ You Can Contact me at <a href="mailto:saikishorrasala418@gmail.com" > saikishorrasala418@gmail.com </a>
 🚀 I'm Currently Working as Web Developer in M.C.E. Society, Azam I.T. Department.
-
+🌱 I'm Currently Learning Backend Web Development by Youtube Videos and Online Courses.
 
 <!-- 
 Here are some ideas to get you started:
