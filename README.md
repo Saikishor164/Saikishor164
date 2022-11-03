@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 <p> I am a Web Developer who is working to bring something new in this industry. Worked with many languages and frameworks. I am very well known for Front-End Web Developer in Azam Campus & currently working as a Web Developer in Azam IT Department of Azam Campus. Worked on Frontend & Backend program. </p>
 
 🌍 I'm stay in Pune, Maharashtra <br>
-✉️ You Can Contact me at <a href="mailto:saikishorrasala418@gmail.com" > saikishorrasala418@gmail.com </a>
-🚀 I'm Currently Working as Web Developer in M.C.E. Society, Azam I.T. Department.
-🌱 I'm Currently Learning Backend Web Development by Youtube Videos and Online Courses.
-💬 Ask me about Coding i would say little much but ask me about any movie Information i will say you a speech on it. 
+✉️ You Can Contact me at <a href="mailto:saikishorrasala418@gmail.com" > saikishorrasala418@gmail.com </a> <br>
+🚀 I'm Currently Working as Web Developer in M.C.E. Society, Azam I.T. Department. <br> 
+🌱 I'm Currently Learning Backend Web Development by Youtube Videos and Online Courses.<br> 
+💬 Ask me about Coding i would say little much but ask me about any movie Information i will say you a speech on it. <br>
 <!-- 
 Here are some ideas to get you started:
 
