@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/saikishor164"><img src="https://github-readme-stats.vercel.app/api?username=saikishor164&show_icons=true&hide=prs,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Saikishor Rasala's GitHub stats" /></a>
+<a href="http://www.github.com/saikishor164"><img src="https://camo.githubusercontent.com/27e1f88a0a29c57c0e1bd32d989f341a60d9dbb92b83d2d975ce90a278d83b58/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7361696b6973686f723136342673686f775f69636f6e733d7472756526686964653d7072732c26636f756e745f707269766174653d74727565267469746c655f636f6c6f723d30383931623226746578745f636f6c6f723d6666666666662669636f6e5f636f6c6f723d3038393162322662675f636f6c6f723d31633139313726686964655f626f726465723d747275652673686f775f69636f6e733d74727565" alt="Saikishor Rasala's GitHub stats" /></a>
 
 <a href="http://www.github.com/saikishor164"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saikishor164&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
