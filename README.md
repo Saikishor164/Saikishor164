@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.github.com/saikishor164"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikishor164&theme=gruvbox&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=10" alt="streak stats"></a>
 
-<a href="http://www.github.com/saikishor164"><img src="https://activity-graph.herokuapp.com/graph?username=saikishor164&theme=gruvbox&area=true&custom_title=GitHub%20Commits%20Graph&bg_color=000000&border_radius=10" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/saikishor164"><img src="https://activity-graph.herokuapp.com/graph?username=saikishor164&theme=gruvbox&custom_title=GitHub%20Commits%20Graph&bg_color=000000&border_radius=10" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Saikishor164" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikishor164&layout=compact&theme=gruvbox&border_radius=10" alt="Top Languages" /></a>
 
