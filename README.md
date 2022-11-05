@@ -31,17 +31,17 @@ Here are some ideas to get you started:
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/saikishor164"><img src="https://github-readme-stats.vercel.app/api?username=saikishor164&show_icons=true&theme=onedark" alt="Saikishor Rasala's GitHub stats" /></a>
+<a href="http://www.github.com/saikishor164"><img src="https://github-readme-stats.vercel.app/api?username=saikishor164&show_icons=true&theme=gruvbox" alt="Saikishor Rasala's GitHub stats" /></a>
 
-<a href="https://www.github.com/saikishor164"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikishor164&theme=onedark&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="streak stats"></a>
+<a href="https://www.github.com/saikishor164"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikishor164&theme=gruvbox&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="streak stats"></a>
 
-<a href="http://www.github.com/saikishor164"><img src="https://activity-graph.herokuapp.com/graph?username=saikishor164&theme=onedark&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/saikishor164"><img src="https://activity-graph.herokuapp.com/graph?username=saikishor164&theme=gruvbox&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Saikishor164" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikishor164&layout=compact&theme=onedark" alt="Top Languages" /></a>
+<a href="https://github.com/Saikishor164" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikishor164&layout=compact&theme=gruvbox" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/saikishor164/portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=saikishor164&repo=portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/saikishor164/portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=saikishor164&repo=portfolio&theme=gruvbox&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <!-- 
 Here are some ideas to get you started:
