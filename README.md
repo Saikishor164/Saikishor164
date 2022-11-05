@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <a href="http://www.github.com/saikishor164"><img src="https://activity-graph.herokuapp.com/graph?username=saikishor164&theme=gruvbox&area=true&custom_title=GitHub%20Commits%20Graph&bg_color=000000border_radius=4.5" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Saikishor164" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikishor164&layout=compact&theme=gruvboxborder_radius=4.5" alt="Top Languages" /></a>
+<a href="https://github.com/Saikishor164" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikishor164&layout=compact&theme=gruvbox&border_radius=4.5" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
