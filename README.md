@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ✉️ You Can Contact me at <a href="mailto:saikishorrasala418@gmail.com" > saikishorrasala418@gmail.com </a> <br>
 🚀 I'm Currently Working as Web Developer in M.C.E. Society, Azam I.T. Department. <br> 
 🌱 I'm Currently Learning Backend Web Development by Youtube Videos and Online Courses.<br> 
-💬 Ask me about Coding i would say little much but ask me about any movie Information i will say you a speech on it. <br>
+<!-- 💬 Ask me about Coding i would say little much but ask me about any movie Information i will say you a speech on it. <br> -->
 
 
 
