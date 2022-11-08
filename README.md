@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/saikishor164/portfolio" align="left"><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=saikishor164&repo=portfolio&border_radius=10&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/saikishor164/portfolio" align="left"><img align="left" width="60%" src="https://github-readme-stats.vercel.app/api/pin/?username=saikishor164&repo=portfolio&border_radius=10&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <!-- 
 Here are some ideas to get you started:
