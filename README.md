@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **saikishorrasala418@gmail.com**
 
-- 📄 Know about my experiences [saikishor164.github.io/resume.pdf](saikishor164.github.io/resume.pdf)
+- 📄 Know about my experiences [saikishor164.github.io/resume.pdf](saikishor164.github.io/saikishor-resume.pdf)
 
 - ⚡ Fun fact **I think I am very Angry Sometimes**
 
