@@ -95,9 +95,9 @@ Here are some ideas to get you started:
 
 
 
-<p> <a href="http://www.github.com/saikishor164" > <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=saikishor164&show_icons=true&layout=compact" alt="saikishor164" /> </a> </p>
+<p> <a href="http://www.github.com/saikishor164" > <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saikishor164&show_icons=true&layout=compact" alt="saikishor164" /> </a> </p>
 <br>
-<p>&nbsp; <a href="http://www.github.com/saikishor164" > <img align="center" src="https://github-readme-stats.vercel.app/api?username=saikishor164&show_icons=false alt="saikishor164" /> </a> </p>
+<p>&nbsp; <a href="http://www.github.com/saikishor164" > <img align="center" src="https://github-readme-stats.vercel.app/api?username=saikishor164&show_icons=false" alt="saikishor164" /> </a> </p>
 
 <p> <a href="http://www.github.com/saikishor164" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikishor164" alt="saikishor164" /></a> </p> <br> <br> <br>
 
