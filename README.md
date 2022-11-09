@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saikishor164" alt="saikishor164" /></a> </p><br> 
 
-<p align="left"> <a href="https://github.com/saikishor164"><img src="[https://github-profile-trophy.vercel.app/?username=saikishor164](https://github-profile-trophy.vercel.app/?username=saikishor164&rank=S,SS,SSS,AAA,AA,A,B,C,UNKNOWN)" alt="saikishor164" /></a> </p><br> 
+<!-- <p align="left"> <a href="https://github.com/saikishor164"><img src="[https://github-profile-trophy.vercel.app/?username=saikishor164](https://github-profile-trophy.vercel.app/?username=saikishor164&rank=S,SS,SSS,AAA,AA,A,B,C,UNKNOWN)" alt="saikishor164" /></a> </p><br>  -->
 
 <p align="left"> <a href="https://twitter.com/saikishor164" target="blank"><img src="https://img.shields.io/twitter/follow/saikishor164?logo=twitter&style=for-the-badge" alt="saikishor164" /></a> </p> <br>
 
