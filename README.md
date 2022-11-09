@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [Github](saikihsor164.github.io)
+- 👨‍💻 All of my projects are available at [Github](https://saikishor164.github.io/)
 
 - 💬 Ask me about **Wordpress**
 
