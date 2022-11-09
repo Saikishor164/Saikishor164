@@ -91,11 +91,11 @@ Here are some ideas to get you started:
 
 
 
-<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=saikishor164&show_icons=true&locale=en&layout=compact" alt="saikishor164" /></p>
+<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=saikishor164&show_icons=true" alt="saikishor164" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saikishor164&show_icons=true&locale=en" alt="saikishor164" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saikishor164&show_icons=true" alt="saikishor164" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikishor164&" alt="saikishor164" /></p> <br> <br> <br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikishor164" alt="saikishor164" /></p> <br> <br> <br>
 
 <a href="http://www.github.com/saikishor164"><img src="https://activity-graph.herokuapp.com/graph?username=saikishor164&custom_title=GitHub%20Commits%20Graph&border_radius=10" alt="GitHub Commits Graph" /></a>
 
