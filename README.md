@@ -1,4 +1,4 @@
-### Hi 👋 my Name is Saikishor Srinivasulu Rasala
+<!-- ### Hi 👋 my Name is Saikishor Srinivasulu Rasala
 
 <!--
 **Saikishor164/Saikishor164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <h2>Web Developer </h2> <br> 
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ✉️ You Can Contact me at <a href="mailto:saikishorrasala418@gmail.com" > saikishorrasala418@gmail.com </a> <br>
 🚀 I'm Currently Working as Web Developer in M.C.E. Society, Azam I.T. Department. <br> 
 🌱 I'm Currently Learning Backend Web Development by Youtube Videos and Online Courses.<br> 
-<!-- 💬 Ask me about Coding i would say little much but ask me about any movie Information i will say you a speech on it. <br> -->
+<!-- 💬 Ask me about Coding i would say little much but ask me about any movie Information i will say you a speech on it. <br> 
 
 
 
@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/saikishor164/portfolio" align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=saikishor164&repo=portfolio&border_radius=10&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />\
+<div width="100%" align="center"><a href="https://github.com/saikishor164/portfolio" align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=saikishor164&repo=portfolio&border_radius=10&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-
+ -->
 
 <h1 align="center">Hi 👋, I'm Saikishor Rasala</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I think I am very Angry Sometimes**
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -89,6 +89,8 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saikishor164&show_icons=true&locale=en" alt="saikishor164" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikishor164&" alt="saikishor164" /></p> <br> <br> <br>
+
+<a href="http://www.github.com/saikishor164"><img src="https://activity-graph.herokuapp.com/graph?username=saikishor164&custom_title=GitHub%20Commits%20Graph&border_radius=10" alt="GitHub Commits Graph" /></a>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/saikishor164"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/saikishor164" /></a></p><br><br>
