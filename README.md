@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <div width="100%" align="center"><a href="https://github.com/saikishor164/portfolio" align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=saikishor164&repo=portfolio&border_radius=10&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
  -->
-
+<script src="https://kit.fontawesome.com/506dc419d7.js" crossorigin="anonymous"></script>
 <h1 align="center">Hi 👋, I'm Saikishor Rasala</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -59,7 +59,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [Github](https://saikishor164.github.io/)
+- <i class="fa-regular fa-file"></i> See my portfolio at [Portfolio](https://saikishor164.github.io/)
+
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Saikishor164/)
 
 - 💬 Ask me about **Wordpress**
 
