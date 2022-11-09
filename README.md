@@ -59,13 +59,13 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [saikishor164.github.io](Github )
+- 👨‍💻 All of my projects are available at [Github](saikihsor164.github.io)
 
 - 💬 Ask me about **Wordpress**
 
 - 📫 How to reach me **saikishorrasala418@gmail.com**
 
-- 📄 Know about my experiences [(https://saikishor164.github.io/saikishor%20resume.pdf)](Resume )
+- 📄 Know about my experiences [Resume](https://saikishor164.github.io/saikishor%20resume.pdf)
 
 - ⚡ Fun fact **I think I am very Angry Sometimes**
 
