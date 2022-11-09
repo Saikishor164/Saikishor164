@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 <h2>Web Developer </h2> <br> 
 
-<p> I am a Web Developer who is working to bring something new in this industry. Worked with many languages and frameworks. I am very well known for Front-End Web Developer in Azam Campus & currently working as a Web Developer in Azam IT Department of Azam Campus. Worked on Frontend & Backend program. </p>
+<p>I am a web developer working to bring something new to this industry. I have wor with many languages and frameworks. I am very well known as a Front-End Web Developer in Azam Campus & currently working as a Web Developer in Azam IT Department of Azam Campus. Worked on Frontend & Backend program. </p>
+
 
 🌍 I'm staying in Pune, Maharashtra <br>
 ✉️ You Can Contact me at <a href="mailto:saikishorrasala418@gmail.com" > saikishorrasala418@gmail.com </a> <br>
