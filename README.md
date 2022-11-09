@@ -45,13 +45,16 @@ Here are some ideas to get you started:
 <div width="100%" align="center"><a href="https://github.com/saikishor164/portfolio" align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=saikishor164&repo=portfolio&border_radius=10&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
  -->
-<script src="https://kit.fontawesome.com/506dc419d7.js" crossorigin="anonymous"></script>
+<!-- <script src="https://kit.fontawesome.com/506dc419d7.js" crossorigin="anonymous"></script>  -->
+
 <h1 align="center">Hi 👋, I'm Saikishor Rasala</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saikishor164&label=Profile%20views&color=0e75b6&style=flat" alt="saikishor164" /> </p> <br> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saikishor164&label=Profile%20views&color=0e75b6&style=flat" alt="saikishor164" /> </p>
+<p align="left"> <img src="https://img.shields.io/github/followers/saikishor164?style=plastic" alt="saikishor164" /> </p> 
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saikishor164" alt="saikishor164" /></a> </p><br>  -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saikishor164" alt="saikishor164" /></a> </p><br> 
+<p align="left"> <a href="https://github.com/saikishor164"><img src="[https://github-profile-trophy.vercel.app/?username=saikishor164](https://github-profile-trophy.vercel.app/?username=saikishor164&rank=S,SS,SSS,AAA,AA,A,B,C,UNKNOWN)" alt="saikishor164" /></a> </p><br> 
 
 <p align="left"> <a href="https://twitter.com/saikishor164" target="blank"><img src="https://img.shields.io/twitter/follow/saikishor164?logo=twitter&style=for-the-badge" alt="saikishor164" /></a> </p> <br>
 
