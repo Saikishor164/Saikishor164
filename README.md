@@ -54,7 +54,9 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/github/followers/saikishor164?style=plastic" alt="saikishor164" />  
 <img src="https://img.shields.io/github/commit-activity/m/saikishor164/saikishor164?style=plastic" alt="saikishor164" />
 <img src="https://img.shields.io/github/languages/count/saikishor164/saikishor164.github.io?style=plastic" alt="saikishor164">
-<img src="https://img.shields.io/github/languages/top/saikishor164/saikishor164.github.io?style=plastic" alt="saikishor164"></p> <br>
+<img src="https://img.shields.io/github/languages/top/saikishor164/saikishor164.github.io?style=plastic" alt="saikishor164">
+<img src="https://visitor-badge.glitch.me/badge?page_id=saikishor164">
+</p> <br>
 
 <p align="left"> <a href="https://github.com/saikishor164"><img src="https://github-profile-trophy.vercel.app/?username=saikishor164&rank=S,SS,SSS,AAA,AA,A,B,C,UNKNOWN" alt="saikishor164" /></a> </p><br> 
 
