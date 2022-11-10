@@ -99,12 +99,12 @@ Here are some ideas to get you started:
 
 <a href="http://www.github.com/saikishor164"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saikishor164&show_icons=true"> </a>
 <br>
-<p>&nbsp; <a href="http://www.github.com/saikishor164" > <img align="center" src="https://github-readme-stats.vercel.app/api?username=saikishor164&show_icons=false" alt="saikishor164" /> </a> </p>
+<p>&nbsp; <a href="http://www.github.com/saikishor164" > <img align="center" src="https://github-readme-stats.vercel.app/api?username=saikishor164&show_icons=true" alt="saikishor164" /> </a> </p>
 
 <p> <a href="http://www.github.com/saikishor164" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikishor164" alt="saikishor164" /></a> </p> <br> <br> <br>
 
-<a href="http://www.github.com/saikishor164" ><img src="https://activity-graph.herokuapp.com/graph?username=saikishor164&border_radius20" alt="GitHub Commits Graph" /></a>
-<br><br>
+<!-- <a href="http://www.github.com/saikishor164" ><img src="https://activity-graph.herokuapp.com/graph?username=saikishor164&border_radius20" alt="GitHub Commits Graph" /></a>
+<br><br> -->
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"> 
 <br>
 <img align="Center" src="https://profile-counter.glitch.me/saikishor164/count.svg" >
