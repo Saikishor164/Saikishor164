@@ -48,8 +48,6 @@ Here are some ideas to get you started:
 <!-- <script src="https://kit.fontawesome.com/506dc419d7.js" crossorigin="anonymous"></script>  -->
 
 <h1 align="center">Hi 👋, I'm Saikishor Rasala</h1>
-<h3 align="center">A Passionate Web Developer from India  </h3> <br> 
-
 <p align="center">I am a web developer working to bring something new to this industry. I have wor with many languages and frameworks. I am very well known as a Front-End Web Developer in Azam Campus & currently working as a Web Developer in Azam IT Department of Azam Campus. Worked on Frontend & Backend program. </p>
 
 <p> <img src="https://komarev.com/ghpvc/?username=saikishor164&label=Profile%20views&color=0e75b6&style=plastic" alt="saikishor164" />
