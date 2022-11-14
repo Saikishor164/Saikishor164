@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 - <i class="fa-regular fa-file"></i> 🖥️ See my portfolio at (currently developing it)[Portfolio](https://saikishor164.github.io/)
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/Saikishor164/)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Saikishor164?tab=repositories)
 
 - 💬 Ask me about **Wordpress**
 
