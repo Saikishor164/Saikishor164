@@ -97,11 +97,11 @@ Here are some ideas to get you started:
 
 <!-- <p> <a href="http://www.github.com/saikishor164" > <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saikishor164&show_icons=true&layout=compact" alt="saikishor164" /> </a> </p> -->
 
-<a href="http://www.github.com/saikishor164"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikishor164" alt="saikishor164"> </a>
+<a href="http://www.github.com/saikishor164"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikishor164&layout=compact" alt="saikishor164"> </a>
 <br>
 <p><a href="http://www.github.com/saikishor164" > <img src="https://github-readme-stats.vercel.app/api?username=saikishor164&show_icons=true" alt="saikishor164" /> </a> </p>
 
-<p> <a href="http://www.github.com/saikishor164" ><img src="https://github-readme-streak-stats.herokuapp.com/?" alt="saikishor164" /></a> </p> <br> <br> <br>
+<p> <a href="http://www.github.com/saikishor164" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=saikishor164" alt="saikishor164" /></a> </p> <br> <br> <br>
 
 <!-- <a href="http://www.github.com/saikishor164" ><img src="https://activity-graph.herokuapp.com/graph?username=saikishor164&border_radius20" alt="GitHub Commits Graph" /></a>
 <br><br> -->
