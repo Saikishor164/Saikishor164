@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **saikishorrasala418@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://saikishor164.github.io/saikishor%20resume.pdf)
+- 📄 Know about my experiences [Resume](https://saikishor164.github.io/saikishor-resume.pdf)
 
 - ⚡ Fun fact **I think I am very Angry Sometimes**
 
