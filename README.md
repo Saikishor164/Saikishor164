@@ -84,6 +84,12 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+<!-- 
+###Certifications 
+Front End Web Developer Udemy January 2022 -->
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/saikishorrasala" target="blank"><img align="center" src="imgs/codepen.svg" alt="saikishorrasala" height="30" width="40" /></a>
