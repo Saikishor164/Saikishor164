@@ -130,7 +130,7 @@ Front End Web Developer Udemy January 2022 -->
 
 
 <br>
-<p><a href="http://www.github.com/saikishor164" > <img src="https://github-readme-stats.vercel.app/api?username=saikishor164&show_icons=false" alt="saikishor164" /> </a> </p>
+<p><a href="http://www.github.com/saikishor164" > <img src="https://github-readme-stats.vercel.app/api?username=saikishor164&show_icons=true" alt="saikishor164" /> </a> </p>
 
 <p> <a href="http://www.github.com/saikishor164" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=saikishor164" alt="saikishor164" /></a> </p> <br>
 <!-- <h3> My Repository </h3>
