@@ -113,18 +113,24 @@ Front End Web Developer Udemy January 2022 -->
 
 
 <!-- <p> <a href="http://www.github.com/saikishor164" > <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saikishor164&show_icons=true&layout=compact" alt="saikishor164" /> </a> </p> -->
+
+
+<a href="http://www.github.com/saikishor164"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikishor164&layout=compact" alt="saikishor164"> </a>
+
 <table>
  <tr>
   <td> <a href="http://www.github.com/saikishor164" > <img src="https://github-readme-stats.vercel.app/api?username=saikishor164&show_icons=false" alt="saikishor164" /> </a> </td> 
   <td> <a href="http://www.github.com/saikishor164" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=saikishor164" alt="saikishor164" /></a> </td>
+  <td> <a href="https://github.com/saikishor164/saikishor164.github.io"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/saikishor164/saikishor164.github.io.png" width="460px"></a> </td>
+  <td> <a href="https://github.com/saikishor164/saikishor164"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/saikishor164/saikishor164.png" width="460px"></a> </td>
  </tr>
 </table>
 
-<a href="http://www.github.com/saikishor164"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikishor164&layout=compact" alt="saikishor164"> </a>
-<br>
+
+<!-- <br>
 <p><a href="http://www.github.com/saikishor164" > <img src="https://github-readme-stats.vercel.app/api?username=saikishor164&show_icons=false" alt="saikishor164" /> </a> </p>
 
-<p> <a href="http://www.github.com/saikishor164" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=saikishor164" alt="saikishor164" /></a> </p> <br> <br> <br>
+<p> <a href="http://www.github.com/saikishor164" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=saikishor164" alt="saikishor164" /></a> </p> <br> -->  <br> 
 <h3> My Repository </h3>
 
 <table>
