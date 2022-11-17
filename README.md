@@ -137,8 +137,8 @@ Front End Web Developer Udemy January 2022 -->
 
 <table>
   <tr>
-    <td><a href="https://github.com/saikishor164/saikishor164.github.io"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/saikishor164/saikishor164.github.io.png" width="460px"></a></td>
-    <td><a href="https://github.com/saikishor164/saikishor164"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/saikishor164/saikishor164.png" width="460px"></a></td>
+    <td><a href="https://github.com/saikishor164/saikishor164.github.io"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/saikishor164/saikishor164.github.io.png" width="500px"></a></td>
+    <td><a href="https://github.com/saikishor164/saikishor164"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/saikishor164/saikishor164.png" width="500px"></a></td>
   </tr>
 </table>
 <!-- <a href="http://www.github.com/saikishor164" ><img src="https://activity-graph.herokuapp.com/graph?username=saikishor164&border_radius20" alt="GitHub Commits Graph" /></a>
