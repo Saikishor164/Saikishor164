@@ -137,19 +137,19 @@ Front End Web Developer Udemy January 2022 -->
 <h3> My Certifications </h3>
 
 FreeCodeCamp - Responsive Web Design 16, Novemeber 2022 [Certificate](https://www.freecodecamp.org/certification/saikishor/responsive-web-design) 
-<br>
+<br><br>
 Udemy - Front End Web Development 2022 - 27, January 2022 [Certificate](https://github.com/saikishor164/udemyfrontendweb.pdf)
-<br>
-Udemy - Python Complete Course For Beginners - 27, January 2022 [Certificate] (https://github.com/saikishor164/udemypythoncourse.pdf)
-<br>
-SkillUP - Full Stack Development for Beginners - 11, October 2022 [Certificate] (https://github.com/saikishor164/FullStackDevelopmentforBeginnersskillup.pdf)
-<br> 
+<br><br>
+Udemy - Python Complete Course For Beginners - 27, January 2022 [Certificate](https://github.com/saikishor164/udemypythoncourse.pdf)
+<br><br>
+SkillUP - Full Stack Development for Beginners - 11, October 2022 [Certificate](https://github.com/saikishor164/FullStackDevelopmentforBeginnersskillup.pdf)
+<br> <br>
 SkillUP - Data Science with Python - 30 Septmeber 2022 [Certificate](https://github.com/saikishor164/DataSciencewithPythonskillup.pdf)
-<br>
+<br><br>
 Cursa - Wordpress Elementor from Basics to Advanced by Azharul Rafy - 27, Septmeber 2022 [Certificate](https://github.com/saikishor164/certificateWordpressElementorfrombasicstoadvanced.pdf)
-<br>
+<br><br>
 Cursa - Advanced Wordpress theme Development by Codeytek Academy - 6, October 2022 [Certificate](https://github.com/saikishor164/certificateadvancedWordpressthemeDevelopmentbyCodeytekAcademy.pdf)
-<br>
+<br><br>
 
 
 
