@@ -138,11 +138,11 @@ Front End Web Developer Udemy January 2022 -->
 
 FreeCodeCamp - Responsive Web Design 16, Novemeber 2022 [Certificate](https://www.freecodecamp.org/certification/saikishor/responsive-web-design) 
 <br><br>
-Udemy - Front End Web Development 2022 - 27, January 2022 [Certificate](https://www.udemy.com/certificate/UC-c8e49547-d635-4890-aa33-95578b724517/) <br> Certificate ID:- ude.my/UC-c8e49547-d635-4890-aa33-95578b724517/
+Udemy - Front End Web Development 2022 - 27, January 2022 [Certificate](https://www.udemy.com/certificate/UC-c8e49547-d635-4890-aa33-95578b724517/) <br> Certificate ID:- UC-c8e49547-d635-4890-aa33-95578b724517/
 <br><br>
-Udemy - Python Complete Course For Beginners - 27, January 2022 [Certificate](https://www.udemy.com/certificate/UC-11be6fdc-312b-4b97-b86b-9804c2b33229/) <br> Certificate ID:- ude.my/UC-11be6fdc-312b-4b97-b86b-9804c2b33229/
+Udemy - Python Complete Course For Beginners - 27, January 2022 [Certificate](https://www.udemy.com/certificate/UC-11be6fdc-312b-4b97-b86b-9804c2b33229/) <br> Certificate ID:- UC-11be6fdc-312b-4b97-b86b-9804c2b33229/
 <br><br>
- SkillUP - Full Stack Development for Beginners - 11, October 2022 [Certificate](https://github.com/saikishor164/FullStackDevelopmentforBeginnersskillup.pdf) <br> Certificate No:- 3844386
+SkillUP - Full Stack Development for Beginners - 11, October 2022 [Certificate](https://github.com/saikishor164/FullStackDevelopmentforBeginnersskillup.pdf) <br> Certificate No:- 3844386
 <br> <br>
 SkillUP - Data Science with Python - 30 Septmeber 2022 [Certificate](https://github.com/saikishor164/DataSciencewithPythonskillup.pdf) <br> Certificate No:- 3815610
 <br><br>
