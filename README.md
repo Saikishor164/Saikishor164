@@ -90,7 +90,7 @@ Front End Web Developer Udemy January 2022 -->
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://codepen.io/saikishorrasala" target="blank"><img align="center" src="imgs/codepen.svg" alt="saikishorrasala" height="30" width="40" /></a>
 <a href="https://dev.to/saikishor164" target="blank"><img align="center" src="imgs/devto.svg" alt="saikishor164" height="30" width="40" /></a>
@@ -98,7 +98,7 @@ Front End Web Developer Udemy January 2022 -->
  <a href="https://stackoverflow.com/users/saikishor-rasala" target="blank"><img align="center" src="imgs/stack-overflow.svg" alt="saikishor-rasala" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="left">Languages and Tools:</h1>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="imgs/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="imgs/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="imgs/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -134,7 +134,7 @@ Front End Web Developer Udemy January 2022 -->
 
 <p> <a href="http://www.github.com/saikishor164" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=saikishor164" alt="saikishor164" /></a> </p> <br>
 
-<h3> My Certifications </h3>
+<h1> My Certifications </h1>
 
 FreeCodeCamp - Responsive Web Design 16, Novemeber 2022 [Certificate](https://www.freecodecamp.org/certification/saikishor/responsive-web-design) 
 <br><br>
@@ -168,7 +168,7 @@ Cursa - Advanced Wordpress theme Development by Codeytek Academy - 6, October 20
 <br>
 <img  src="https://profile-counter.glitch.me/saikishor164/count.svg" >
 
-<h3 align="left">Support:</h3>
+<h1 align="left">Support:</h1>
 <p><a href="https://www.buymeacoffee.com/saikishor164"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/saikishor164" /></a></p><br><br>
 
 
