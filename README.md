@@ -137,7 +137,7 @@ Front End Web Developer Udemy January 2022 -->
 <h1> My Certifications </h1>
 
 FreeCodeCamp - Responsive Web Design 16, Novemeber 2022 [Certificate](https://www.freecodecamp.org/certification/saikishor/responsive-web-design) 
-<br><br>
+<br>
 <!-- Udemy - Front End Web Development 2022 - 27, January 2022 [Certificate](https://www.udemy.com/certificate/UC-c8e49547-d635-4890-aa33-95578b724517/) <br> Certificate ID:- UC-c8e49547-d635-4890-aa33-95578b724517/
 <br><br> --> 
 Udemy - Python Complete Course For Beginners - 27, January 2022 [Certificate](https://www.udemy.com/certificate/UC-11be6fdc-312b-4b97-b86b-9804c2b33229/) <br> Certificate ID:- UC-11be6fdc-312b-4b97-b86b-9804c2b33229/
