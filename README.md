@@ -169,7 +169,7 @@ Udemy - HTML, CSS, & JavaScript - Certification Course for Beginners - 19, Novem
 <br>
 <img  src="https://profile-counter.glitch.me/saikishor164/count.svg" >
 
-<h1 align="left">Support:</h1>
+<h1>Support:</h1>
 <p><a href="https://www.buymeacoffee.com/saikishor164"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/saikishor164" /></a></p><br><br>
 
 
