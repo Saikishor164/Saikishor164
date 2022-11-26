@@ -95,7 +95,8 @@ Front End Web Developer Udemy January 2022 -->
 <a href="https://codepen.io/saikishorrasala" target="_blank"><img align="center" src="imgs/codepen.svg" alt="saikishorrasala" height="30" width="40" /></a>
 <a href="https://dev.to/saikishor164" target="_blank"><img align="center" src="imgs/devto.svg" alt="saikishor164" height="30" width="40" /></a>
 <a href="https://twitter.com/saikishor164" target="_blank"><img align="center" src="imgs/twitter.svg" alt="saikishor164" height="30" width="40" /></a>
- <a href="https://stackoverflow.com/users/17814504/saikishor-rasala" target="_blank"><img align="center" src="imgs/stack-overflow.svg" alt="saikishor-rasala" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17814504/saikishor-rasala" target="_blank"><img align="center" src="imgs/stack-overflow.svg" alt="saikishor-rasala" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saikishor-rasala-4583a0224/" target="_blank"><img align="center" src="imgs/linkedin-96.svg" alt="saikishor-rasala" height="30" width="40" /></a>
 </p>
 
 <h1 align="left">Languages and Tools:</h1>
