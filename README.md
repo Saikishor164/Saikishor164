@@ -88,8 +88,6 @@ Here are some ideas to get you started:
 ###Certifications 
 Front End Web Developer Udemy January 2022 -->
 
-
-
 <h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://codepen.io/saikishorrasala" target="_blank"><img align="center" src="imgs/codepen.svg" alt="saikishorrasala" height="30" width="40" /></a>
