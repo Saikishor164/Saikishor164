@@ -100,7 +100,7 @@ Front End Web Developer Udemy January 2022 -->
 </p>
 
 <h1 align="left">Languages and Tools:</h1>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="imgs/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+<p align="left">  
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="imgs/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="imgs/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="imgs/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
