@@ -108,8 +108,10 @@ Front End Web Developer Udemy January 2022 -->
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="imgs/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="imgs/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="imgs/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="imgs/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="imgs/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="imgs/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/> </a> 
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="imgs/php-original.svg" alt="php" width="40" height="40"/> </a> 
+<a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="imgs/Adobe_Premiere_Proicon.svg" alt="php" width="40" height="40"/> </a>
+</p>
 
 
 
