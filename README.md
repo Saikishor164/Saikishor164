@@ -113,8 +113,6 @@ Front End Web Developer Udemy January 2022 -->
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="imgs/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 </p>
 
-
-
 <!-- <p> <a href="http://www.github.com/saikishor164" > <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saikishor164&show_icons=true&layout=compact" alt="saikishor164" /> </a> </p> -->
 
 
