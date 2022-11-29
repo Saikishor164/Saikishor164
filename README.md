@@ -114,7 +114,7 @@ Front End Web Developer Udemy January 2022 -->
 <!-- <p> <a href="http://www.github.com/saikishor164" > <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saikishor164&show_icons=true&layout=compact" alt="saikishor164" /> </a> </p> -->
 
 
-<a href="http://www.github.com/saikishor164"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikishor164&layout=compact" alt="saikishor164"> </a>
+<a href="http://www.github.com/saikishor164"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikishor164" alt="saikishor164"> </a>
 
 <!-- <table>
  <tr>
@@ -129,7 +129,7 @@ Front End Web Developer Udemy January 2022 -->
 
 
 <br>
-<p><a href="http://www.github.com/saikishor164" > <img src="https://github-readme-stats.vercel.app/api?username=saikishor164&show_icons=true" alt="saikishor164" /> </a> </p>
+<p><a href="http://www.github.com/saikishor164" > <img src="https://github-readme-stats.vercel.app/api?username=saikishor164&show_icons=false" alt="saikishor164" /> </a> </p>
 
 <p> <a href="http://www.github.com/saikishor164" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=saikishor164" alt="saikishor164" /></a> </p> <br>
 
