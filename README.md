@@ -42,7 +42,7 @@ Here are some ideas to get you started
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/saikishor164/portfolio" align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=saikishor164&repo=portfolio&border_radius=10&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/saikishor164/portfolio" align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=saikishor164&repo=portfolio&border_radius=10&locale=en" /></a></div><br /><br /><br /><br /><br /><br />
 
  -->
 <!-- <script src="https://kit.fontawesome.com/506dc419d7.js" crossorigin="anonymous"></script>  -->
