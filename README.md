@@ -75,8 +75,7 @@ Here are some ideas to get you started
 - 💬 Ask me about **Wordpress**
 
 - 📫 How to reach me **saikishorrasala418@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://saikishor164.github.io/saikishor-resume .pdf)
+- 📄 Know about my experiences <a href="https://saikishor164.github.io/saikishor-resume%20.pdf" target="blank">Resume</a>
 
 - ⚡ Fun fact **I think I am very Angry Sometimes**
 
