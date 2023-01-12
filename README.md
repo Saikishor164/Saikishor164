@@ -131,6 +131,15 @@ Front End Web Developer Udemy January 2022 -->
 <p><a href="http://www.github.com/saikishor164" > <img src="https://github-readme-stats.vercel.app/api?username=saikishor164&show_icons=true" alt="saikishor164" /> </a> </p>
 
 <p> <a href="http://www.github.com/saikishor164" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=saikishor164" alt="saikishor164" /></a> </p> <br>
+<br> 
+
+<!-- linkedin Profile -->
+
+
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="saikishor164" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/saikishor164?trk=profile-badge">Saikishor Rasala</a></div><br>
+
+
 
 <h1> My Certifications </h1>
 
