@@ -1,52 +1,3 @@
-<!-- Hi 👋 my Name is Saikishor Srinivasulu Rasala
-
-<!--
-**Saikishor164/Saikishor164 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
-
-Here are some ideas to get you started
-
-- 🔭 I’m currently working ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ..
-- 🤔 I’m looking for help with ....
-- 💬 Ask me about .......
-- 📫 How to reach me .... 
-- 😄 Pronouns: .......
-
-
-
-<h2>Web Developer </h2> <br> 
-
-<p>I am a web developer working to bring something new to this industry. I have work with many languages and frameworks. I am very well known as a Front-End Web Developer in Azam Campus & currently working as a Web Developer in Azam IT Department of Azam Campus. Worked on Frontend & Backend program. </p>
-
-
-🌍 I'm staying in Pune, Maharashtra <br>
-✉️ You Can Contact me at <a href="mailto:saikishorrasala418@gmail.com" > saikishorrasala418@gmail.com </a> <br>
-🚀 I'm Currently Working as Web Developer in M.C.E. Society, Azam I.T. Department. <br> 
-🌱 I'm Currently Learning Backend Web Development by Youtube Videos and Free Online Courses.<br> 
-<!-- 💬 Ask me about Coding i would say little much but ask me about any movie Information i will say you a speech on it. <br> 
-
-
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/saikishor164"><img src="https://github-readme-stats.vercel.app/api?username=saikishor164&show_icons=true&border_radius=10&hide_rank=false" alt="Saikishor Rasala's GitHub stats" /></a>
-
-<a href="https://www.github.com/saikishor164"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikishor164&currStreakLabel=0891b2&border_radius=10&disable_animations=false" alt="streak stats"></a>
-
-<a href="http://www.github.com/saikishor164"><img src="https://activity-graph.herokuapp.com/graph?username=saikishor164&custom_title=GitHub%20Commits%20Graph&border_radius=10" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Saikishor164" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikishor164&layout=compact&border_radius=10" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/saikishor164/portfolio" align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=saikishor164&repo=portfolio&border_radius=10&locale=en" /></a></div><br /><br /><br /><br /><br /><br />
-
- -->
-<!-- <script src="https://kit.fontawesome.com/506dc419d7.js" crossorigin="anonymous"></script>  -->
-
 <h1 align="center">Hi 👋, I'm Saikishor Rasala</h1>
 <p align="center">I am a web developer working to bring something new to this industry. I have work with many languages and frameworks. I am very well known as a Front-End Web Developer in Azam Campus & currently working as a Web Developer in Azam IT Department of Azam Campus. Worked on Frontend & Backend program. </p>
 
@@ -65,27 +16,14 @@ Here are some ideas to get you started
 <p align="left"> <a href="https://twitter.com/saikishor164" target="blank"><img src="https://img.shields.io/twitter/follow/saikishor164?logo=twitter&style=for-the-badge" alt="saikishor164" /></a> </p> <br>
 
 - 🔭 I’m currently working on  Dr. P. A. Inamdar University  **[Website ](http://drpaiu.edu.in)**
-
 - 🌱 I’m currently learning **JavaScript**
-
 - <i class="fa-regular fa-file"></i> 🖥️ See my portfolio at (currently developing it)[ Portfolio](https://saikishor164.github.io/)
-
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Saikishor164?tab=repositories)
-
 - 💬 Ask me about **Wordpress**
-
 - 📫 How to reach me **saikishorrasala418@gmail.com**
 - 📄 Know about my experiences <a href="https://saikishor164.github.io/saikishor-resume.pdf" target="blank">Resume</a>
-
 - ⚡ Fun fact **I think I am very Angry Sometimes**
 
-<!-- ### Blogs posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- 
-###Certifications 
-Front End Web Developer Udemy January 2022 -->
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
@@ -110,21 +48,7 @@ Front End Web Developer Udemy January 2022 -->
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="imgs/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 </p>
 
-<!-- <p> <a href="http://www.github.com/saikishor164" > <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saikishor164&show_icons=true&layout=compact" alt="saikishor164" /> </a> </p> -->
-
-
 <a href="http://www.github.com/saikishor164"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikishor164&layout=compact" alt="saikishor164"> </a>
-
-<!-- <table>
- <tr>
-  <td> <a href="http://www.github.com/saikishor164" > <img src="https://github-readme-stats.vercel.app/api?username=saikishor164&show_icons=false" alt="saikishor164" /> </a> </td> 
-  <td> <a href="http://www.github.com/saikishor164" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=saikishor164" alt="saikishor164" /></a> </td>
- </tr>
-<tr>
- <td> <a href="https://github.com/saikishor164/saikishor164.github.io"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/saikishor164/saikishor164.github.io.png" width="460px"></a> </td>
-  <td> <a href="https://github.com/saikishor164/saikishor164"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/saikishor164/saikishor164.png" width="460px"></a> </td>
- </tr>
-</table> -->
 
 
 <br>
@@ -133,20 +57,11 @@ Front End Web Developer Udemy January 2022 -->
 <p> <a href="http://www.github.com/saikishor164" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=saikishor164" alt="saikishor164" /></a> </p> <br>
 <br> 
 
-<!-- linkedin Profile -->
-
-
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="saikishor164" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/saikishor164?trk=profile-badge">Saikishor Rasala</a></div><br>
-
-
-
 <h1> My Certifications </h1>
 
 FreeCodeCamp - Responsive Web Design 16, Novemeber 2022 [Certificate](https://www.freecodecamp.org/certification/saikishor/responsive-web-design) 
 <br>
-<!-- Udemy - Front End Web Development 2022 - 27, January 2022 [Certificate](https://www.udemy.com/certificate/UC-c8e49547-d635-4890-aa33-95578b724517/) <br> Certificate ID:- UC-c8e49547-d635-4890-aa33-95578b724517/
-<br><br> --> 
+
 Udemy - Python Complete Course For Beginners - 27, January 2022 [Certificate](https://www.udemy.com/certificate/UC-11be6fdc-312b-4b97-b86b-9804c2b33229/) <br> Certificate ID:- UC-11be6fdc-312b-4b97-b86b-9804c2b33229
 <br><br>
 SkillUP - Full Stack Development for Beginners - 11, October 2022 [Certificate](https://github.com/saikishor164/FullStackDevelopmentforBeginnersskillup.pdf) <br> Certificate No:- 3844386
@@ -159,19 +74,6 @@ Cursa - Advanced Wordpress theme Development by Codeytek Academy - 6, October 20
 <br><br>
 Udemy - HTML, CSS, & JavaScript - Certification Course for Beginners - 19, Novemeber 2022 [Certificate](https://www.udemy.com/certificate/UC-ad7843a9-0ee5-4205-9d2d-4a73b45d1789/) <br> Certificate ID:- UC-ad7843a9-0ee5-4205-9d2d-4a73b45d1789
 <br> <br>
-
-
-
-<!-- <h3> My Repository </h3>
-
-<table>
-  <tr>
-    <td><a href="http://www.github.com/saikishor164" > <img src="https://gh-card.dev/repos/saikishor164/saikishor164.svg?fullname=&link_target=_blank"></a></td>
-    <td><a href="http://www.github.com/saikishor164" > <img src="https://gh-card.dev/repos/saikishor164/saikishor164.github.io.svg?fullname=&link_target=_blank"></a></td>
-  </tr>
-</table> -->
-<!-- <a href="http://www.github.com/saikishor164" ><img src="https://activity-graph.herokuapp.com/graph?username=saikishor164&border_radius20" alt="GitHub Commits Graph" /></a>
-<br><br> -->
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"> 
 <br>
 <img  src="https://profile-counter.glitch.me/saikishor164/count.svg" >
