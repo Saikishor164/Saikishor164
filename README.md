@@ -14,7 +14,9 @@
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=saikishor164"> -->
 </p> <br>
 
-<p align="left"> <a href="https://github.com/saikishor164"><img src="https://github-profile-trophy.vercel.app/?username=saikishor164&rank=S,SS,SSS,AAA,AA,A,B,C" alt="saikishor164" /></a> </p><br> 
+<br> 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saikishor164" alt="saikishor164" /></a> </p> <br>
 
 <!-- <p align="left"> <a href="https://github.com/saikishor164"><img src="[https://github-profile-trophy.vercel.app/?username=saikishor164](https://github-profile-trophy.vercel.app/?username=saikishor164&rank=S,SS,SSS,AAA,AA,A,B,C,UNKNOWN)" alt="saikishor164" /></a> </p><br>  -->
 
@@ -37,6 +39,8 @@
 <a href="https://twitter.com/saikishor164" target="_blank"><img align="center" src="imgs/twitter.svg" alt="saikishor164" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17814504/saikishor-rasala" target="_blank"><img align="center" src="imgs/stack-overflow.svg" alt="saikishor-rasala" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/saikishor-rasala-4583a0224/" target="_blank"><img align="center" src="imgs/linkedin-96.svg" alt="saikishor-rasala" height="30" width="40" /></a>
+ <a href="https://www.hackerearth.com/https://www.hackerrank.com/rasalasaikishor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/rasalasaikishor" height="30" width="40" /></a>
+ <a href="https://www.leetcode.com/saikishor164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saikishor164" height="30" width="40" /></a>
 </p>
 
 <h1 align="left">Languages and Tools:</h1>
