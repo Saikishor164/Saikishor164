@@ -24,7 +24,6 @@
 - 📄 Know about my experiences <a href="https://saikishor164.github.io/saikishor-resume.pdf" target="blank">Resume</a>
 - ⚡ Fun fact **I think I am very Angry Sometimes**
 
-
 <h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://codepen.io/saikishorrasala" target="_blank"><img align="center" src="imgs/codepen.svg" alt="saikishorrasala" height="30" width="40" /></a>
