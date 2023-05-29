@@ -51,7 +51,7 @@
 
 <a href="http://www.github.com/saikishor164"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikishor164&layout=donut" alt="saikishor164"> </a>
 
-
+<img src = "https://github-readme-stats.vercel.app/api?username=saikishor164&show_icons=true&theme=dark#gh-dark-mode-only">
 <br>
 <p><a href="http://www.github.com/saikishor164" > <img src="https://github-readme-stats.vercel.app/api?username=saikishor164&show_icons=true" alt="saikishor164" /> </a> </p>
 
