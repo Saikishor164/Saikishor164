@@ -39,7 +39,7 @@
 
 <p align="left">
   <a href="https://github.com/saikishor164">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,php,wordpress,codepen,figma,ai,ps,pr,vscode,idea,git,github,githubactions&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,php,wordpress,bootstrap,codepen,figma,ai,ps,pr,vscode,idea,git,github,githubactions,arduino&theme=dark" />
   </a>
 </p>
 <!-- <p align="left">  
