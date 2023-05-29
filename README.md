@@ -36,7 +36,13 @@
 </p>
 
 <h1 align="left">Languages and Tools:</h1>
-<p align="left">  
+
+<p align="center">
+  <a href="https://github.com/saikishor164">
+    <img src="https://skillicons.dev/icons?i=idea,git,github,githubactions,html,css,js,react,mysql,php,wordpress,codepen,nodejs,figma,ai,ps,pr,&theme=dark" />
+  </a>
+</p>
+<!-- <p align="left">  
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="imgs/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="imgs/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="imgs/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -47,7 +53,7 @@
 <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="imgs/Adobe_Premiere_Proicon.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="imgs/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="imgs/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-</p>
+</p> -->
 
 <a href="http://www.github.com/saikishor164"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikishor164&layout=pie" alt="saikishor164"> </a>
 
