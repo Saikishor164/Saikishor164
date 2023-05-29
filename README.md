@@ -59,7 +59,7 @@
 
 <p> <a href="http://www.github.com/saikishor164" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=saikishor164" alt="saikishor164" /></a> </p> 
 
-<p> <a href="http://www.github.com/saikishor164" ><img src="https://github-readme-stats.vercel.app/api/wakatime?user=saikishor164&layout=compact" alt="saikishor164" /></a> </p> 
+<p> <a href="http://www.github.com/saikishor164" ><img src="https://github-readme-stats.vercel.app/api/wakatime?username=saikishor164&layout=compact" alt="saikishor164" /></a> </p> 
 
 
 <br>
