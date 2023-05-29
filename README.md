@@ -37,7 +37,7 @@
 
 <h1 align="left">Languages and Tools:</h1>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/saikishor164">
     <img src="https://skillicons.dev/icons?i=idea,git,github,githubactions,html,css,js,react,mysql,php,wordpress,codepen,nodejs,figma,ai,ps,pr,&theme=dark" />
   </a>
