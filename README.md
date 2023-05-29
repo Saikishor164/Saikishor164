@@ -49,7 +49,7 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="imgs/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 </p>
 
-<a href="http://www.github.com/saikishor164"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikishor164&layout=donut" alt="saikishor164"> </a>
+<a href="http://www.github.com/saikishor164"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikishor164&layout=pie" alt="saikishor164"> </a>
 
 <img src = "https://github-readme-stats.vercel.app/api?username=saikishor164&show_icons=true&theme=dark#gh-dark-mode-only">
 <br>
