@@ -75,8 +75,8 @@
 
 FreeCodeCamp - Responsive Web Design 16, Novemeber 2022 [Certificate](https://www.freecodecamp.org/certification/saikishor/responsive-web-design) 
 <br>
-
-Udemy - Python Complete Course For Beginners - 27, January 2022 [Certificate](https://www.udemy.com/certificate/UC-11be6fdc-312b-4b97-b86b-9804c2b33229/) <br> Certificate ID:- UC-11be6fdc-312b-4b97-b86b-9804c2b33229
+<!--
+Udemy - Python Complete Course For Beginners - 27, January 2022 [Certificate](https://www.udemy.com/certificate/UC-11be6fdc-312b-4b97-b86b-9804c2b33229/) <br> Certificate ID:- UC-11be6fdc-312b-4b97-b86b-9804c2b33229 -->
 <br><br>
 SkillUP - Full Stack Development for Beginners - 11, October 2022 [Certificate](https://github.com/saikishor164/FullStackDevelopmentforBeginnersskillup.pdf) <br> Certificate No:- 3844386
 <br> <br>
