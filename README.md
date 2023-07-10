@@ -5,6 +5,7 @@
 <p> <img src="https://komarev.com/ghpvc/?username=saikishor164&label=Profile%20views&color=0e75b6&style=plastic" alt="saikishor164" />
  <img src="https://img.shields.io/github/followers/saikishor164?style=plastic" alt="saikishor164" />  
 <img src="https://img.shields.io/github/commit-activity/m/saikishor164/ProFormaForm?style=plastic" alt="saikishor164" />
+ <a href="https://wakatime.com/@44c4cd40-9920-40d7-86da-9eb0c0a197af"><img src="https://wakatime.com/badge/user/44c4cd40-9920-40d7-86da-9eb0c0a197af.svg" alt="Total time coded since Jul 4 2023" /></a>
 <!-- <img src="https://img.shields.io/github/languages/count/saikishor164/ProFormaForm?style=plastic" alt="saikishor164"> -->
 <!-- <img src="https://img.shields.io/github/languages/top/saikishor164/ProFormaForm?style=plastic" alt="saikishor164"> -->
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=saikishor164"> -->
