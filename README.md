@@ -68,7 +68,7 @@
 <p> <a href="http://www.github.com/saikishor164" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=saikishor164" alt="saikishor164" /></a> </p> 
 <p>
 <a href="https://github.com/saikishor164"><img  src="https://stats.hyochan.dev/api/github-stats-advanced?login=saikishor164" width="700px" height="300px" /></a> </p>
-<p><a href="https://github.com/saikishor164"><img  src="https://github-readme-stats.vercel.app/api/wakatime?username=saikishor164&layout=compact" /></a>
+<p><a href="https://wakatime.com/@saikishor164"><img  src="https://github-readme-stats.vercel.app/api/wakatime?username=saikishor164&layout=compact" /></a>
 </p>
 <br><br>
 <br>
