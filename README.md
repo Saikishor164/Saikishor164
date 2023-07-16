@@ -93,8 +93,7 @@ Udemy - HTML, CSS, & JavaScript - Certification Course for Beginners - 19, Novem
 <br> <br>
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"> 
 <br>
-<img  src="https://profile-counter.glitch.me/saikishor164/count.svg" >
-
+<img  src="https://profile-counter.glitch.me/saikishor164/count.svg" > <br>
 <h1>Support:</h1>
 <p><a href="https://www.buymeacoffee.com/saikishor164"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com" /></a></p><br>    
 <!--
