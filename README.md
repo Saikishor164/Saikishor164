@@ -55,7 +55,7 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="imgs/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="imgs/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 </p> -->
-<a href="https://github.com/saikishor164"><img align="center" src="https://github-readme-stats.vercel.app/api?username=saikishor164&show=reviews&show_icons=true&number_format=long&hide_title=flase&include_all_commits=true" alt="saikishor github stats" /></a>  <a href="https://github.com/saikishor164"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikishor164&layout=compact" /></a>
+<a href="https://github.com/saikishor164"><img align="center" src="https://github-readme-stats.vercel.app/api?username=saikishor164&show=reviews&show_icons=true&number_format=long&hide_title=flase&include_all_commits=false&rank_icon=percentile" alt="saikishor github stats" /></a>  <a href="https://github.com/saikishor164"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikishor164&layout=compact" /></a>
 
 <!-- <a href="http://www.github.com/saikishor164"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikishor164&layout=pie" alt="saikishor164"> </a>
 
