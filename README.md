@@ -10,7 +10,7 @@
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=saikishor164"> -->
 </p> <br>
 
-<p align="left"> <a href="https://github.com/saikishor164" target="_blank" ><img src="https://github-trophies.vercel.app/?username=saikishor164&rank=SECRET,SSS,SS,S,AAA,AA,A,B,unknown&row=3&column=4&&margin-w=15&margin-h=15" alt="saikishor164" /></a> </p> <br> <!-- https://github-profile-trophy.vercel.app/?username=saikishor164&row=3&column=4 --> 
+<p align="left"> <a href="https://github.com/saikishor164" target="_blank" ><img src="https://github-trophies.vercel.app/?username=saikishor164&rank=SECRET,SSS,SS,S,AAA,AA,A,B,unknown&row=3&column=4&&margin-w=15&margin-h=15" alt="saikishor164" /></a> </p> <br> https://github-profile-trophy.vercel.app/?username=saikishor164&row=3&column=4 
 
 
 
