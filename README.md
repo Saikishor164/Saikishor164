@@ -10,7 +10,9 @@
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=saikishor164"> -->
 </p> <br>
 
-<p align="left"> <a href="https://github.com/saikishor164" target="_blank" ><img src="https://github-trophies.vercel.app/?username=saikishor164&rank=SECRET,SSS,SS,S,AAA,AA,A,B,unknown&row=3&column=4&&margin-w=15&margin-h=15" alt="saikishor164" /></a> </p> <br> https://github-profile-trophy.vercel.app/?username=saikishor164&row=3&column=4 
+<p align="left"> <a href="https://github.com/saikishor164" target="_blank" ><img src="https://github-trophies.vercel.app/?username=saikishor164&rank=SECRET,SSS,SS,S,AAA,AA,A,B,unknown&row=3&column=4&&margin-w=15&margin-h=15" alt="saikishor164" /></a> </p> <br> 
+
+<!-- https://github-profile-trophy.vercel.app/?username=saikishor164&row=3&column=4 -->
 
 
 
@@ -57,7 +59,16 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="imgs/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="imgs/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 </p> -->
-<a href="https://github.com/saikishor164"><img align="center" src="https://github-readme-stats.vercel.app/api?username=saikishor164&show=reviews&show_icons=true&number_format=long&hide_title=flase&include_all_commits=false&rank_icon=percentile" alt="saikishor github stats" /></a>  <a href="https://github.com/saikishor164"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikishor164&layout=compact" /></a>
+
+<a href="https://github.com/saikishor164/github-stats">
+<img src="https://github.com/saikishor164/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" >
+</a>
+<br>
+<a href="https://github.com/saikishor164"><img src="https://github-readme-stats.vercel.app/api?username=saikishor164&show=reviews&show_icons=true&number_format=long&hide_title=flase&include_all_commits=false&rank_icon=percentile" alt="saikishor github stats" ></a> <br> 
+<a href="https://github.com/saikishor164">
+<img src="https://github.com/saikishor164/github-stats/blob/master/generated/languages.svg#gh-light-mode-only">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikishor164&layout=compact" >
+</a>
 
 <!-- <a href="http://www.github.com/saikishor164"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikishor164&layout=pie" alt="saikishor164"> </a>
 
@@ -65,13 +76,10 @@
 <br> -->
 <!--<p><a href="http://www.github.com/saikishor164" > <img src="https://github-readme-stats.vercel.app/api?username=saikishor164&show_icons=true" alt="saikishor164" /> </a> -->  </p>
 
-
-
-<p> <a href="http://www.github.com/saikishor164" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=saikishor164" alt="saikishor164" /></a> </p> 
+<a href="http://www.github.com/saikishor164" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=saikishor164" alt="saikishor164" ></a> 
 <!-- <p>
 <a href="https://github.com/saikishor164"><img  src="https://stats.hyochan.dev/api/github-stats-advanced?login=saikishor164" width="700px" height="300px" /></a> </p> -->
-<p><a href="https://wakatime.com/@saikishor164"><img  src="https://github-readme-stats.vercel.app/api/wakatime?username=saikishor164&layout=compact" /></a>
-</p>
+<a href="https://wakatime.com/@saikishor164"><img  src="https://github-readme-stats.vercel.app/api/wakatime?username=saikishor164&layout=compact" /></a>
 
 <h1> My Certifications </h1>
 
