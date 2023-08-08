@@ -5,9 +5,14 @@
  <img src="https://img.shields.io/github/followers/saikishor164?style=plastic" alt="saikishor164" />  
 <!-- <img src="https://img.shields.io/github/commit-activity/m/saikishor164/ProFormaForm?style=plastic" alt="saikishor164" /> -->
  <a href="https://wakatime.com/@44c4cd40-9920-40d7-86da-9eb0c0a197af"><img src="https://wakatime.com/badge/user/44c4cd40-9920-40d7-86da-9eb0c0a197af.svg" alt="Total time coded since Jul 4 2023" /></a>
+ 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e706bf5b-b992-43bc-b099-8f4c4cbae341/deploy-status)](https://app.netlify.com/sites/saikishor/deploys)
+
 <!-- <img src="https://img.shields.io/github/languages/count/saikishor164/ProFormaForm?style=plastic" alt="saikishor164"> -->
 <!-- <img src="https://img.shields.io/github/languages/top/saikishor164/ProFormaForm?style=plastic" alt="saikishor164"> -->
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=saikishor164"> -->
+
+ <img src="https://github.com/Saikishor164/Saikishor164/blob/main/saikishor164s%20skyline%20video%20version.gif" alt="Saikishor's Github Contributions in Skyline View" >
 </p> <br>
 
 <p align="left"> <a href="https://github.com/saikishor164" target="_blank" ><img src="https://github-trophies.vercel.app/?username=saikishor164&rank=SECRET,SSS,SS,S,AAA,AA,A,B,unknown&row=3&column=4&&margin-w=15&margin-h=15" alt="saikishor164" /></a> </p> <br> 
