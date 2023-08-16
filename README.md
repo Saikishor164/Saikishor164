@@ -24,7 +24,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/saikishor164"><img src="[https://github-profile-trophy.vercel.app/?username=saikishor164](https://github-profile-trophy.vercel.app/?username=saikishor164&rank=S,SS,SSS,AAA,AA,A,B,C,UNKNOWN)" alt="saikishor164" /></a> </p><br>  -->
 
-<p align="left"> <a href="https://twitter.com/saikishor164" target="blank"><img src="https://img.shields.io/twitter/follow/saikishor164?logo=twitter&style=for-the-badge" alt="saikishor164" /></a> </p> <br>
+<!-- <p align="left"> <a href="https://twitter.com/saikishor164" target="blank"><img src="https://img.shields.io/twitter/follow/saikishor164?logo=twitter&style=for-the-badge" alt="saikishor164" /></a> </p> <br> -->
 
 - 🔭 I’m currently working on  Dr. P. A. Inamdar University  **[Website ](http://drpaiu.edu.in)**
 - 🌱 I’m currently learning **JavaScript**
@@ -35,6 +35,7 @@
 - 📄 Know about my experiences <a href="https://saikishor164.github.io/saikishor-resume.pdf" target="blank">Resume</a>
 - ⚡ Fun fact **I think I am very Angry Sometimes**
 
+<!-- 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://codepen.io/saikishorrasala" target="_blank"><img align="center" src="imgs/codepen.svg" alt="saikishorrasala" height="30" width="40" /></a>
@@ -44,15 +45,97 @@
 <a href="https://www.linkedin.com/in/saikishor164/" target="_blank"><img align="center" src="imgs/linkedin-96.svg" alt="saikishor-rasala" height="30" width="40" /></a>
  <a href="https://www.hackerrank.com/rasalasaikishor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rasalasaikishor" height="30" width="40" /></a>
  <a href="https://www.leetcode.com/saikishor164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saikishor164" height="30" width="40" /></a>
-</p>
+</p> -->
 
+
+<img align="right" height="150" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=790b7611q49x33kjv723qbmgr47ma9a792mo8rkqy6ee0ddz&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="30" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" height="30" alt="codepen logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="30" alt="composer logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="30" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="30" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/saikishor164/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@saikishorr?sub_confirmation=1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://instagram.com/saikishor164?igshid=MzRlODBiNWFlZA==" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  <a href="https://stackoverflow.com/users/17814504/saikishor-rasala" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://t.me/Saikishor164" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+  <a href="https://dev.to/saikishor164" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
+  </a>
+  <a href="https://codepen.io/saikishorrasala" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
+  </a>
+</div>
+
+###
+
+<!-- <img src="https://raw.githubusercontent.com/saikishor164/saikishor164/output/snake.svg" alt="Snake animation" /> -->
+
+
+<!--
 <h1 align="left">Languages and Tools:</h1>
 
 <p align="left">
   <a href="https://github.com/saikishor164">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,php,wordpress,bootstrap,codepen,figma,ai,ps,pr,vscode,idea,git,github,githubactions,arduino&theme=dark&perline=10" />
   </a>
-</p>
+</p> -->
 <!-- <p align="left">  
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="imgs/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="imgs/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
