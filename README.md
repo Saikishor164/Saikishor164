@@ -16,7 +16,22 @@
  <a href="https://skyline.github.com/saikishor164/2023"><img src="https://github.com/Saikishor164/Saikishor164/blob/main/saikishor164s%20skyline%20video%20version.gif" alt="Saikishor's Github Contributions in Skyline View" > </a>
 </p> <br>
 
-<p align="left"> <a href="https://github.com/saikishor164" target="_blank" ><img src="https://github-trophies.vercel.app/?username=saikishor164&rank=SECRET,SSS,SS,S,AAA,AA,A,B,unknown&row=3&column=4&&margin-w=15&margin-h=15" alt="saikishor164" /></a> </p> <br> 
+<h1>🏆Stats🏅</h1>
+    <p align="center">
+        <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
+        <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="100px" height="100px">&emsp;
+        <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" /> 
+    </p>
+    <p align="center">
+    <div align="center">        
+            <img src="https://github-profile-trophy.vercel.app/?username=saikishor164&row=1&column=4&title=LongTimeUser,AncientUser,Commits,Reviews">
+<!--             <img src="https://github-profile-trophy.vercel.app/?username=saikishor164&column=3&title="> -->
+        <img align="center" src="https://github-profile-trophy.vercel.app/?username=saikishor164&row=1&column=7&title=Followers,PullRequest,Repositories,Issues,Stars,MultiLanguage,Organizations">
+    </div>
+
+<br>
+<!--
+<p align="left"> <a href="https://github.com/saikishor164" target="_blank" ><img src="https://github-trophies.vercel.app/?username=saikishor164&rank=SECRET,SSS,SS,S,AAA,AA,A,B,unknown&row=3&column=4&&margin-w=15&margin-h=15" alt="saikishor164" /></a> </p> <br> --> 
 
 <!-- https://github-profile-trophy.vercel.app/?username=saikishor164&row=3&column=4 -->
 
