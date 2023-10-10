@@ -40,7 +40,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/saikishor164" target="blank"><img src="https://img.shields.io/twitter/follow/saikishor164?logo=twitter&style=for-the-badge" alt="saikishor164" /></a> </p> <br> -->
 
-- 🔭 I’m currently working on  Dr. P. A. Inamdar University  **[Website ](http://drpaiu.edu.in)**
+- 🔭 I’m currently working on  PAI-IAS  **[Website ](https://paiias.org)**
 - 🌱 I’m currently learning **JavaScript**
 - <i class="fa-regular fa-file"></i> 🖥️ See my portfolio at (currently developing it)[ Portfolio](https://saikishor164.github.io/)
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Saikishor164?tab=repositories)
