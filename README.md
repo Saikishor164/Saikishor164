@@ -212,8 +212,9 @@ Udemy - HTML, CSS, & JavaScript - Certification Course for Beginners - 19, Novem
 waka_37535a22-a827-4496-ae01-516c8b3a9e34
 -->
 
-<video >
-  <source src="https://github.com/Saikishor164/Saikishor164/raw/main/imgs/snake%20animation%20low.mp4" type="video/mp4">
+
+<video  width="1600" height="400" controls >
+  <source src="https://saikishor164.github.io/images/snake-animation-low.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video> 
 
