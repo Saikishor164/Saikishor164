@@ -13,7 +13,9 @@
 <h1> My Github Contributions in Skyline View</h1>
 <h3>from 1st January to 28th July </h3>
  <a href="https://skyline.github.com/saikishor164/2023"><img src="https://github.com/Saikishor164/Saikishor164/blob/main/saikishor164s%20skyline%20video%20version.gif" alt="Saikishor's Github Contributions in Skyline View" > </a>
-</p> <br>
+</p> 
+
+<img style="background-color:black" src="https://raw.githubusercontent.com/saikishor164/saikishor164/output/snake.svg" alt="Snake animation" />
 
 <h1>🏆Stats🏅</h1>
     <p align="center">
@@ -218,7 +220,7 @@ Udemy - HTML, CSS, & JavaScript - Certification Course for Beginners - 19, Novem
 waka_37535a22-a827-4496-ae01-516c8b3a9e34
 -->
 
-
+<!-- 
 <video  width="1600" height="400" controls >
   <source src="https://saikishor164.github.io/images/snake-animation-low.mp4" type="video/mp4">
   Your browser does not support the video tag.
@@ -226,4 +228,7 @@ waka_37535a22-a827-4496-ae01-516c8b3a9e34
 
 [![Video](https://github.com/Saikishor164/Saikishor164/blob/main/imgs/snake%20animation%20low.mp4)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID](https://github.com/Saikishor164/Saikishor164/blob/main/imgs/snake%20animation%20low.mp4)https://github.com/Saikishor164/Saikishor164/blob/main/imgs/snake%20animation%20low.mp4)
 
+-->
 
+
+###
