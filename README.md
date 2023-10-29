@@ -17,7 +17,7 @@
  <a href="https://skyline.github.com/saikishor164/2023"><img src="https://github.com/Saikishor164/Saikishor164/blob/main/saikishor164s%20skyline%20video%20version.gif" alt="Saikishor's Github Contributions in Skyline View" > </a>
 </p> 
 
-<img style="background-color:black" src="https://raw.githubusercontent.com/saikishor164/saikishor164/output/snake.svg" alt="Snake animation" />
+<!-- <img style="background-color:black" src="https://raw.githubusercontent.com/saikishor164/saikishor164/output/snake.svg" alt="Snake animation" /> -->
 
 <h1>🏆Stats🏅</h1>
     <p align="center">
