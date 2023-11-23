@@ -20,16 +20,16 @@
 <!-- <img style="background-color:black" src="https://raw.githubusercontent.com/saikishor164/saikishor164/output/snake.svg" alt="Snake animation" /> -->
 
 <h1>🏆Stats🏅</h1>
-    <p align="center">
+   <a href="https://github.com/Saikishor164"> <p align="center">
         <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
         <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="100px" height="100px">&emsp;
         <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" /> 
-    </p>
+    </p> </a>
     <p align="center">
     <div align="center">        
-            <img src="https://github-profile-trophy.vercel.app/?username=saikishor164&row=1&column=4&title=LongTimeUser,AncientUser,Commits,Reviews">
+           <a href="https://github.com/Saikishor164"> <img src="https://github-profile-trophy.vercel.app/?username=saikishor164&row=1&column=4&title=LongTimeUser,AncientUser,Commits,Reviews"> </a>
 <!--             <img src="https://github-profile-trophy.vercel.app/?username=saikishor164&column=3&title="> -->
-        <img align="center" src="https://github-profile-trophy.vercel.app/?username=saikishor164&row=1&column=7&title=Followers,PullRequest,Repositories,Issues,Stars,MultiLanguage,Organizations">
+        <a href="https://github.com/Saikishor164"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=saikishor164&row=1&column=7&title=Followers,PullRequest,Repositories,Issues,Stars,MultiLanguage,Organizations"> </a>
     </div>
 
 <br>
@@ -175,7 +175,7 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="imgs/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 </p> -->
 
-<a href="https://github.com/saikishor164/github-stats">
+<a href="https://github.com/saikishor164">
 <img src="https://github.com/saikishor164/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" >
 </a>
 <br>
@@ -213,9 +213,9 @@ Cursa - Advanced Wordpress theme Development by Codeytek Academy - 6, October 20
 <br><br>
 Udemy - HTML, CSS, & JavaScript - Certification Course for Beginners - 19, Novemeber 2022 [Certificate](https://www.udemy.com/certificate/UC-ad7843a9-0ee5-4205-9d2d-4a73b45d1789/) <br> Certificate ID:- UC-ad7843a9-0ee5-4205-9d2d-4a73b45d1789
 <br> <br>
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"> 
+<a href="https://github.com/Saikishor164"> <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"> 
 <br>
-<img  src="https://profile-counter.glitch.me/saikishor164/count.svg" > <br>
+<img  src="https://profile-counter.glitch.me/saikishor164/count.svg" > <br> </a>
 <h1>Support:</h1>
 <p><a href="https://www.buymeacoffee.com/saikishor164"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com" /></a></p><br>    
 <!--
