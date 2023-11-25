@@ -180,7 +180,7 @@
 <a href="https://github.com/saikishor164"><img src="https://github-readme-stats.vercel.app/api?username=saikishor164&show=reviews&show_icons=true&number_format=long&hide_title=flase&include_all_commits=false&rank_icon=percentile" alt="saikishor github stats" ></a> <br> 
 <a href="https://github.com/saikishor164">
 <img src="https://github.com/saikishor164/github-stats/blob/master/generated/languages.svg#gh-light-mode-only">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikishor164&layout=compact" >
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikishor164&layout=compact" > -->
 </a>
 
 <!-- <a href="http://www.github.com/saikishor164"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikishor164&layout=pie" alt="saikishor164"> </a>
