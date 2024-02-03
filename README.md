@@ -25,9 +25,10 @@
     </p> </a>
     <p align="center">
     <div align="center">        
-           <a href="https://github.com/Saikishor164"> <img src="https://github-profile-trophy.vercel.app/?username=saikishor164&row=1&column=4&title=LongTimeUser,AncientUser,Commits,Reviews"> </a>
+<!--            <a href="https://github.com/Saikishor164"> <img src="https://github-profile-trophy.vercel.app/?username=saikishor164&row=1&column=4&title=LongTimeUser,AncientUser,Commits,Reviews"> </a> -->
+                <a href="https://github.com/Saikishor164"> <img src="https://github-profile-trophy.vercel.app/?username=saikishor164"> </a>
 <!--             <img src="https://github-profile-trophy.vercel.app/?username=saikishor164&column=3&title="> -->
-        <a href="https://github.com/Saikishor164"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=saikishor164&row=1&column=7&title=Followers,PullRequest,Repositories,Issues,Stars,MultiLanguage,Organizations"> </a>
+<!--         <a href="https://github.com/Saikishor164"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=saikishor164&row=1&column=7&title=Followers,PullRequest,Repositories,Issues,Stars,MultiLanguage,Organizations"> </a> -->
     </div>
 
 <br>
@@ -42,8 +43,8 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/saikishor164" target="blank"><img src="https://img.shields.io/twitter/follow/saikishor164?logo=twitter&style=for-the-badge" alt="saikishor164" /></a> </p> <br> -->
 
-- 🔭 I’m currently working on  PAI-IAS  **[Website ](https://paiias.org)**
-- 🌱 I’m currently learning **JavaScript**
+- 🔭 I’m currently working on  Bloom Fields School  **[Website ](https://bloomfieldschool.co.in)**
+- 🌱 I’m currently learning **Codeigniter**
 - <i class="fa-regular fa-file"></i> 🖥️ See my portfolio at (currently developing it)[ Portfolio](https://saikishor164.github.io/)
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Saikishor164?tab=repositories)
 - 💬 Ask me about **Wordpress**
