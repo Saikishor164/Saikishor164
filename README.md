@@ -174,6 +174,8 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="imgs/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 </p> -->
 
+<a href="https://app.daily.dev/saikishor164"><img src="https://api.daily.dev/devcards/v2/dprPPnHxVQGlc8qDEMCGW.png?type=default&r=yze" width="356" alt="saikishor Rasala's Dev Card"/></a>
+
 <a href="https://github.com/saikishor164">
 <img src="https://github.com/saikishor164/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" >
 </a>
