@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Saikishor Rasala</h1>
+<h1 align="center">Hi 👋, I'm Saikishor Rasala</h1>
 <p align="center">I am a web developer working to bring something new to this industry. I have work with many languages and frameworks. I am very well known as a Front-End Web Developer in Azam Campus & currently working as a Web Developer in Azam IT Department of Azam Campus. Worked on Frontend & Backend program. </p>
 <p> <img src="https://komarev.com/ghpvc/?username=saikishor164&label=Profile%20views&color=0e75b6&style=plastic" alt="saikishor164" />
  <img src="https://img.shields.io/github/followers/saikishor164?style=plastic" alt="saikishor164" />  
@@ -76,10 +76,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="30" alt="Codeigniter logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" alt="react logo"  />
   <img width="12" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -88,29 +88,24 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" height="30" alt="codepen logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-line-wordmark.svg" height="30" alt="codepen logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="30" alt="composer logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-<!--   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  /> -->
+
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="30" alt="illustrator logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="30" alt="photoshop logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="30" alt="photoshop logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-<!--   <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /> -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
 </div>
@@ -150,49 +145,23 @@
 
 ###
 
-<!-- <img src="https://raw.githubusercontent.com/saikishor164/saikishor164/output/snake.svg" alt="Snake animation" /> -->
-
-
-<!--
-<h1 align="left">Languages and Tools:</h1>
-
-<p align="left">
-  <a href="https://github.com/saikishor164">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,php,wordpress,bootstrap,codepen,figma,ai,ps,pr,vscode,idea,git,github,githubactions,arduino&theme=dark&perline=10" />
+<a href="https://app.daily.dev/saikishor164"><img src="https://api.daily.dev/devcards/v2/dprPPnHxVQGlc8qDEMCGW.png?type=wide&r=2ow" width="652" alt="saikishor Rasala's Dev Card"/></a>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <a href="https://github.com/saikishor164" style="margin: 10px;">
+    <img src="https://github.com/saikishor164/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" alt="saikishor github stats">
   </a>
-</p> -->
-<!-- <p align="left">  
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="imgs/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="imgs/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="imgs/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="imgs/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="imgs/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="imgs/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="imgs/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="imgs/Adobe_Premiere_Proicon.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="imgs/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="imgs/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-</p> -->
-
-<a href="https://app.daily.dev/saikishor164"><img src="https://api.daily.dev/devcards/v2/dprPPnHxVQGlc8qDEMCGW.png?type=default&r=yze" width="356" alt="saikishor Rasala's Dev Card"/></a>
-
-<a href="https://github.com/saikishor164">
-<img src="https://github.com/saikishor164/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" >
-</a>
+  <a href="https://github.com/saikishor164" style="margin: 10px;">
+    <img src="https://github.com/saikishor164/github-stats/blob/master/generated/languages.svg#gh-light-mode-only">
+  </a>
+  <a href="https://github.com/saikishor164">
+   <img src="https://github-readme-stats.vercel.app/api?username=saikishor164&show=reviews&show_icons=true&number_format=long&hide_title=flase&include_all_commits=false&rank_icon=percentile" alt="saikishor github stats" >
+  </a>
+ <a href="http://www.github.com/saikishor164" >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikishor164" alt="saikishor164" >
+ </a> 
+</div>
 <br>
-<a href="https://github.com/saikishor164"><img src="https://github-readme-stats.vercel.app/api?username=saikishor164&show=reviews&show_icons=true&number_format=long&hide_title=flase&include_all_commits=false&rank_icon=percentile" alt="saikishor github stats" ></a> <br> 
-<a href="https://github.com/saikishor164">
-<img src="https://github.com/saikishor164/github-stats/blob/master/generated/languages.svg#gh-light-mode-only">
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikishor164&layout=compact" > -->
-</a>
-
-<!-- <a href="http://www.github.com/saikishor164"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikishor164&layout=pie" alt="saikishor164"> </a>
-
-<!-- <img src = "https://github-readme-stats.vercel.app/api?username=saikishor164&show_icons=true&theme=dark#gh-dark-mode-only">
-<br> -->
-<!--<p><a href="http://www.github.com/saikishor164" > <img src="https://github-readme-stats.vercel.app/api?username=saikishor164&show_icons=true" alt="saikishor164" /> </a> -->  </p>
-
-<a href="http://www.github.com/saikishor164" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=saikishor164" alt="saikishor164" ></a> 
+ <br> 
 <!-- <p>
 <a href="https://github.com/saikishor164"><img  src="https://stats.hyochan.dev/api/github-stats-advanced?login=saikishor164" width="700px" height="300px" /></a> </p> -->
 <a href="https://wakatime.com/@saikishor164"><img  src="https://github-readme-stats.vercel.app/api/wakatime?username=saikishor164&layout=compact" /></a>
