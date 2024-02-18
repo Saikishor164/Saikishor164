@@ -153,13 +153,16 @@
   <a href="https://github.com/saikishor164" style="margin: 10px;">
     <img src="https://github.com/saikishor164/github-stats/blob/master/generated/languages.svg#gh-light-mode-only">
   </a>
-  <a href="https://github.com/saikishor164">
-   <img src="https://github-readme-stats.vercel.app/api?username=saikishor164&show=reviews&show_icons=true&number_format=long&hide_title=flase&include_all_commits=false&rank_icon=percentile" alt="saikishor github stats" >
-  </a>
- <a href="http://www.github.com/saikishor164" >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikishor164" alt="saikishor164" >
- </a> 
 </div>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <a href="https://github.com/saikishor164">
+    <img src="https://github-readme-stats.vercel.app/api?username=saikishor164&show=reviews&show_icons=true&number_format=long&hide_title=flase&include_all_commits=false&rank_icon=percentile" alt="saikishor github stats">
+  </a>
+  <a href="http://www.github.com/saikishor164" style="margin: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikishor164" alt="saikishor164">
+  </a>
+</div>
+
 <br>
  <br> 
 <!-- <p>
