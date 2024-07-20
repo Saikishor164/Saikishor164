@@ -45,7 +45,8 @@
 
 - 🔭 I’m currently working on  Bloom Fields School  **[Website ](https://bloomfieldschool.co.in)**
 - 🌱 I’m currently learning **Codeigniter**
-- <i class="fa-regular fa-file"></i> 🖥️ See my portfolio at (currently developing it)[ Portfolio](https://saikishor164.github.io/)
+- <i class="fa-regular fa-file"></i> 🖥️ See my portfolio at [ Portfolio](https://saikishor164.github.io/)
+<!-- - <i class="fa-regular fa-file"></i> 🖥️ See my portfolio at (currently developing it)[ Portfolio](https://saikishor164.github.io/) -->
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Saikishor164?tab=repositories)
 - 💬 Ask me about **Wordpress**
 - 📫 How to reach me **saikishorrasala418@gmail.com**
